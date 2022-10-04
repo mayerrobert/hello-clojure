@@ -40,19 +40,19 @@ and [hello.clj](hello.clj) may be sufficient)
 - download three Clojure Jar files, I used
   - https://repo1.maven.org/maven2/org/clojure/clojure/1.11.1/clojure-1.11.1.jar
   - https://repo1.maven.org/maven2/org/clojure/core.specs.alpha/0.2.62/core.specs.alpha-0.2.62.jar
-  - https://repo1.maven.org/maven2/org/clojure/spec.alpha/0.3.218/spec.alpha-0.3.218.jar
+  - https://repo1.maven.org/maven2/org/clojure/spec.alpha/0.3.218/spec.alpha-0.3.218.jar  
   which were current a the time of this writing. Newer ones will probably work as well once newer versions are released.
 - make some adjustments in simple-clj.cmd (see the comments in the file)
 - invoke:
 
-    C:\...\> simple-clj hello.clj
-    Hello, World!
+      C:\...\> simple-clj hello.clj
+      Hello, World!
 
   to run the "Hello, World!" program or type
   
-    C:\...\> simple-clj
+      C:\...\> simple-clj
   
-  to enter the Clojure Repl (Hint: Hint: exit the Clojure Repl by pressing CTRL-Z followed by the Enter key)
+  to enter the Clojure Repl (Hint: exit the Clojure Repl by pressing CTRL-Z followed by the Enter key)
 
 ## Have fun!
 Cheers.
