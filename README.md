@@ -8,7 +8,7 @@ that gives you all Clojure features.**
 
 ## Why?
 
-I was mildly interested in Clojure
+I knew some Lisp and was mildly interested in Clojure
 but figuring out what to install to get started was somewhat difficult.
 And after figuring out what to install you would have to actually
 install all the stuff as well!
@@ -16,6 +16,12 @@ install all the stuff as well!
 It turned out that just to run a "Hello, World!" program you don't need all that stuff.
 A JDK and three Jar files is enough to get started,
 no installation required.
+This will be good enough to get a first view of Clojure,
+type some code in the Repl,
+and run simple Clojure programs.
+No immediate need to figure out leiningen
+and all the other tools.
+(Although at some point you may want to visit https://clojure.org/guides/getting_started.)
 
 Maybe these steps are even useful for experienced Clojurians e.g. to try out a new alpha version without changing their current setup, or to run some Clojure on a computer where they can't or won't install stuff.
 
