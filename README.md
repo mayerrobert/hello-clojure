@@ -33,14 +33,14 @@ but adapting to another OS shouldn't be too hard.
 
 ## How?
 
-The short version is:
+The short version of "from nothing to a working Clojure Repl" is:
 - have or download a JDK
 - download three Clojure Jar files
 - run `java -cp clojure-N.NN.N.jar;spec.alpha-N.NN.N.jar;core.specs.alpha-N.NN.N..jar clojure.main`  
   or run `java -cp clojure-N.NN.N.jar;spec.alpha-N.NN.N.jar;core.specs.alpha-N.NN.N..jar clojure.main hello.clj`
 - Profit!
 
-The detailed version of the above in order to go from nothing to a working Clojure Repl is:
+The detailed version of the above is:
 - clone this repo (or actually: downloading [simple-clj.cmd](simple-clj.cmd)
 and [hello.clj](hello.clj) may be sufficient)
 - download and unzip a JDK e.g. JDK-19 from [jdk.java.net](https://https://jdk.java.net/) if you don't have one already (I think Java 11+ is fine)
