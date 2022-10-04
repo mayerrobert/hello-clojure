@@ -19,7 +19,9 @@ no installation required.
 This will be good enough to get a first view of Clojure,
 type some code in the Repl,
 and run moderately simple Clojure programs
-(see e.g. [sieve_8_bit.clj](sieve_8_bit.clj) for a more sophisticated program).
+(see e.g. [hello.clj](hello.clj) for the famous "Hello, World!" program
+or [sieve_8_bit.clj](sieve_8_bit.clj) for a more sophisticated program).
+
 No immediate need to figure out leiningen, tools.deps, deps.edn
 and all the other tools.
 (Although at some point you may want to visit https://clojure.org/guides/getting_started.)
