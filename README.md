@@ -52,14 +52,15 @@ but adapting to another OS shouldn't be too hard.
 
 **The detailed version of the above is:**
 - clone this repo (or actually: downloading [simple-clj.cmd](simple-clj.cmd)
-and maybe [hello.clj](hello.clj) may be sufficient)
+and maybe [hello.clj](hello.clj) may give you sufficient information to get started)
 - download and unzip a JDK e.g. JDK-19 from [jdk.java.net](https://https://jdk.java.net/)
   (not required if you have a somewhat recent JRE or JDK, I think JRE 8 or better is fine,
   try `java -version` to find out if you already have one)
 - download three Clojure Jar files, I used
   - https://repo1.maven.org/maven2/org/clojure/clojure/1.11.1/clojure-1.11.1.jar
   - https://repo1.maven.org/maven2/org/clojure/core.specs.alpha/0.2.62/core.specs.alpha-0.2.62.jar
-  - https://repo1.maven.org/maven2/org/clojure/spec.alpha/0.3.218/spec.alpha-0.3.218.jar  
+  - https://repo1.maven.org/maven2/org/clojure/spec.alpha/0.3.218/spec.alpha-0.3.218.jar
+
   which were current a the time of this writing. Newer ones will probably work as well once newer versions are released.
 - make some adjustments in simple-clj.cmd (see the comments in the file)
 - invoke:
