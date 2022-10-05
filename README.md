@@ -2,9 +2,10 @@
 
 **DISCLAIMER: following the steps below will give you a simple Clojure "installation"
 with a Repl, and you will be able to run Clojure files.
-It may be enough for the first simple steps,
-but probably very soon you may want to get a proper Clojure setup
-that gives you all Clojure features.**
+It may be enough for the first simple steps.
+After getting first experiences the simple setup described here
+you may want to get a proper Clojure setup
+that includes all Clojure tools and features.**
 
 ## Why?
 
@@ -24,9 +25,12 @@ or [sieve_8_bit.clj](sieve_8_bit.clj) for a more sophisticated program).
 
 No immediate need to figure out leiningen, tools.deps, deps.edn
 and all the other tools.
-(Although at some point you may want to visit https://clojure.org/guides/getting_started.)
+(Although at some point you may want to visit https://clojure.org/guides/getting_started
+for instructions on how to do a full Clojure setup.)
 
-Maybe these steps are even useful for experienced Clojurians e.g. to try out a new alpha version without changing their current setup, or to run some Clojure on a computer where they can't or won't install stuff.
+Maybe these steps are even useful for experienced Clojurians,
+e.g. to try out a new alpha version without changing their current setup,
+or to run some Clojure on a computer where they can't or won't install stuff.
 
 **Some commandline skills are required for the steps below,
 so this will not be for everyone.**
