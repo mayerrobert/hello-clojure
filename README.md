@@ -3,20 +3,22 @@
 **DISCLAIMER: following the steps below will give you a simple Clojure "installation"
 with a Repl, and you will be able to run Clojure files.
 It may be enough for the first simple steps.
-After getting first experiences the simple setup described here
-you may want to get a proper Clojure setup
+After getting first experiences with the simple setup described here
+you may want to switch to a "real" Clojure setup
 that includes all Clojure tools and features.**
 
 ## Why?
 
+Getting started with Clojure seems to take considerable effort.
 I knew some Lisp and was mildly interested in Clojure
 but figuring out what to install to get started was somewhat difficult.
-And after figuring out what to install you would have to actually
+And after figuring out what to install I would have to actually
 install all the stuff as well!
 
 It turned out that just to run a "Hello, World!" program you don't need all that stuff.
 A JDK and three Jar files is enough to get started,
-no installation required.
+no installation required,
+the simple steps to do this are described below.
 This will be good enough to get a first view of Clojure,
 type some code in the Repl,
 and run moderately simple Clojure programs
@@ -28,11 +30,11 @@ and all the other tools.
 (Although at some point you may want to visit https://clojure.org/guides/getting_started
 for instructions on how to do a full Clojure setup.)
 
-Maybe these steps are even useful for experienced Clojurians,
+Maybe the simple steps given below are even useful for experienced Clojurians,
 e.g. to try out a new alpha version without changing their current setup,
 or to run some Clojure on a computer where they can't or won't install stuff.
 
-**Some commandline skills are required for the steps below,
+**NOTE: Some commandline skills are required for the steps below,
 so this will not be for everyone.**
 Also: the steps below are for Windows,
 but adapting to another OS shouldn't be too hard.
@@ -60,10 +62,17 @@ and maybe [hello.clj](hello.clj) may be sufficient)
 
       C:\...\> simple-clj hello.clj
       Hello, World!
+      C:\...\>
 
   to run the "Hello, World!" program or type
   
       C:\...\> simple-clj
+      Clojure 1.11.1
+      user=>  "Hello"
+      "Hello"
+      user=> ^Z
+      
+      C:\...\>
   
   to enter the Clojure Repl (Hint: exit the Clojure Repl by pressing CTRL-Z followed by the Enter key)
 
