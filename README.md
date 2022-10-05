@@ -51,7 +51,9 @@ The short version of "from nothing to a working Clojure Repl" is:
 The detailed version of the above is:
 - clone this repo (or actually: downloading [simple-clj.cmd](simple-clj.cmd)
 and maybe [hello.clj](hello.clj) may be sufficient)
-- download and unzip a JDK e.g. JDK-19 from [jdk.java.net](https://https://jdk.java.net/) if you don't have one already (I think Java 11+ is fine)
+- download and unzip a JDK e.g. JDK-19 from [jdk.java.net](https://https://jdk.java.net/)
+  (not required if you have a somewhat recent JRE or JDK, I think JRE 8 or better is fine,
+  try `java -version` to find out if you already have one)
 - download three Clojure Jar files, I used
   - https://repo1.maven.org/maven2/org/clojure/clojure/1.11.1/clojure-1.11.1.jar
   - https://repo1.maven.org/maven2/org/clojure/core.specs.alpha/0.2.62/core.specs.alpha-0.2.62.jar
@@ -68,7 +70,7 @@ and maybe [hello.clj](hello.clj) may be sufficient)
   
       C:\...\> simple-clj
       Clojure 1.11.1
-      user=>  "Hello"
+      user=> "Hello"
       "Hello"
       user=> ^Z
       
