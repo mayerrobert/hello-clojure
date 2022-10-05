@@ -52,7 +52,7 @@ but adapting to another OS shouldn't be too hard.
 
 **The detailed version of the above is:**
 - clone this repo (or actually: downloading [simple-clj.cmd](simple-clj.cmd)
-and maybe [hello.clj](hello.clj) may be all you need to get started)
+and maybe [hello.clj](hello.clj) really is all you need to get started)
 - download and unzip a JDK e.g. JDK-19 from [jdk.java.net](https://https://jdk.java.net/)
   (not required if you have a somewhat recent JRE or JDK, I think JRE 8 or better is fine,
   try `java -version` to find out if you already have one)
