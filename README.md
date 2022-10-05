@@ -16,7 +16,7 @@ And after figuring out what to install I would have to actually
 install all the stuff as well!
 
 It turned out that just to run a "Hello, World!" program you don't need all that stuff.
-A JDK and three Jar files is enough to get started,
+A JRE or JDK and three Jar files is enough to get started,
 no installation required,
 the simple steps to do this are described below.
 
@@ -44,7 +44,7 @@ but adapting to another OS shouldn't be too hard.
 ## How?
 
 **The short version of "from nothing to a working Clojure Repl" is:**
-- have or download a JDK
+- have or download a JRE or JDK
 - download three Clojure Jar files
 - run `java -cp clojure-N.NN.N.jar;spec.alpha-N.NN.N.jar;core.specs.alpha-N.NN.N..jar clojure.main`  
   or run `java -cp clojure-N.NN.N.jar;spec.alpha-N.NN.N.jar;core.specs.alpha-N.NN.N..jar clojure.main hello.clj`
