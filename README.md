@@ -32,7 +32,9 @@ for instructions on how to do a full Clojure setup.)
 
 Maybe the simple steps given below are even useful for experienced Clojurians,
 e.g. to try out a new alpha version without changing their current setup,
-or to run some Clojure on a computer where they can't or won't install stuff.
+or to run some Clojure on a computer where they can't or won't install stuff,
+or to experiment with different Java settings in a "sandbox"
+without affecting their main Clojure installation.
 
 **NOTE: Some commandline skills are required for the steps below,
 so this will not be for everyone.**
