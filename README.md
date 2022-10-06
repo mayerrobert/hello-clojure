@@ -81,5 +81,10 @@ and maybe [hello.clj](hello.clj) really is all you need to get started)
   
   to enter the Clojure Repl (Hint: exit the Clojure Repl by pressing CTRL-Z followed by the Enter key)
 
+## License
+PrimeClojure.clj and sieve_8_bit.clj were copied from https://github.com/PlummersSoftwareLLC/Primes
+and are licensed under the BSD-new/BSD-3 license,
+the remaining files in this repo are licensed under the [Unlicense license](LICENSE).
+
 ## Have fun!
 Cheers.
