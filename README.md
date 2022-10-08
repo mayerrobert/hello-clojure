@@ -17,7 +17,9 @@ but figuring out what to install to get started was somewhat difficult.
 And after figuring out what to install I would have to actually
 install all the stuff as well!
 
-It turned out that just to run a "Hello, World!" program you don't need all that stuff.
+It turned out that just to run a "Hello, World!" program
+or to type a few Clojure forms into a Repl
+you don't need all that stuff.
 A JRE or JDK and three Jar files is enough to get started,
 no installation required,
 the simple steps to do this are described below.
