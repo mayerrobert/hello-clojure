@@ -8,6 +8,7 @@ you may want to switch to a "real" Clojure setup
 that includes all Clojure tools and features such as
 dependency management and most importantly:
 debugging (which this simple setup does NOT support).
+Also: some commandline skills are required.
 
 ## Why?
 
