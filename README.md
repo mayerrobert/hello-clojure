@@ -1,11 +1,12 @@
 # Easy setup instructions for a simple Clojure Repl
 
 **DISCLAIMER: following the steps below will give you a simple Clojure "installation"
-with a Repl, and you will be able to run Clojure files.
+with a Repl, and you will be able to run Clojure files.**
 It will be good enough for the first simple steps.
 After getting first experiences with the simple setup described here
 you may want to switch to a "real" Clojure setup
-that includes all Clojure tools and features.**
+that includes all Clojure tools and features such as
+dependency management and most importantly: debugging.
 
 ## Why?
 
