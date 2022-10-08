@@ -6,7 +6,8 @@ It will be good enough for the first simple steps.
 After getting first experiences with the simple setup described here
 you may want to switch to a "real" Clojure setup
 that includes all Clojure tools and features such as
-dependency management and most importantly: debugging.
+dependency management and most importantly:
+debugging (which this simple setup does NOT support).
 
 ## Why?
 
