@@ -16,10 +16,11 @@ REM
 REM Hint: exit the Clojure Repl by pressing CTRL-Z followed by the Enter key.
 REM
 REM Note: It looks like
-REM   C:\> java -cp clojure-N.NN.N.jar no longer works,
-REM specs.alpha-M.M.M.jar as well as core.specs.alpha-X.X.X.jar are needed as well.
+REM   C:\> java -cp clojure-N.NN.N.jar
+REM no longer works, specs.alpha-M.M.M.jar as well as
+REM core.specs.alpha-X.X.X.jar are needed as well.
 REM
-REM One could use clojure-N.NN.N-slim.jar instead of clojure-N.NN.N.jar
+REM clojure-N.NN.N-slim.jar could be used instead of clojure-N.NN.N.jar
 REM but then startup takes longer because the -slim jar doesn't contain
 REM compiled Clojure and will recompile everything at each startup.
 
