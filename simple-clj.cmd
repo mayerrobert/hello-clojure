@@ -9,7 +9,7 @@ REM    I used:
 REM    https://repo1.maven.org/maven2/org/clojure/clojure/1.11.1/clojure-1.11.1.jar
 REM    https://repo1.maven.org/maven2/org/clojure/core.specs.alpha/0.2.62/core.specs.alpha-0.2.62.jar
 REM    https://repo1.maven.org/maven2/org/clojure/spec.alpha/0.3.218/spec.alpha-0.3.218.jar
-REM 3) Adjust the variables JAVA_PATH and CLJ below, and optionally add some commandline arguments for java
+REM 3) Adjust the variables JAVA_HOME and CLJ below, and optionally add some commandline arguments for java
 REM 4) invoke "simple-clj" to launch a Clojure Repl
 REM 5) Profit!
 REM
